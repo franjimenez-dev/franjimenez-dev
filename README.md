@@ -4,7 +4,7 @@
 - 🔭 Actualmente estoy terminando de desarrollar **[mi página de viajes en el tiempo](https://timewarp.es)**
 
 
-- 🌱 Estoy profundizando en los frameworks **[Next.js]() y [Laravel]()**
+- 🌱 Estoy profundizando en los frameworks **[Next.js](https://nextjs.org/) y [Laravel](https://laravel.com/)**
 
 
 - 👨‍💻 Puedes encontrar mis proyectos en mi **[portfolio](https://franjiménez.io)**
