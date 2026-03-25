@@ -1,13 +1,13 @@
 <h1 align="center">Hey👋 soy Fran Jiménez</h1>
 <h3 align="center">Desarrollador web. Creciendo después de cada error.</h3>
 
-- 🔭 Actualmente estoy terminando de desarrollar **[mi página de viajes en el tiempo](https://timewarp.es)**
+- 🔭 Actualmente estoy terminando de desarrollar **[mi página de viajes en el tiempo](https://timewarp.vercel.app)**
 
 
 - 🌱 Estoy profundizando en los frameworks **[Next.js](https://nextjs.org/) y [Laravel](https://laravel.com/)**
 
 
-- 👨‍💻 Puedes encontrar mis proyectos en mi **[portfolio](https://franjiménez.io)**
+- 👨‍💻 Puedes encontrar mis proyectos en mi **[portfolio](https://franjiménez.vercel.app)**
 
 
 - 📫 Mi email de contacto es **[franjimenez.dev@gmail.com](mailto:franjimenez.dev@gmail.com)**
@@ -16,7 +16,7 @@
 - 💬 Puedes conectar conmigo en **[Linkedin](https://www.linkedin.com/in/franjimenezdev/)**
 
 
-- 📄 Descarga mi CV **[aquí](https://franjiménez.io/files/cv.pdf)**
+- 📄 Descarga mi CV **[aquí](https://franjiménez.vercel.app/files/cv.pdf)**
 
 
 <h3 align="center">Tecnologías y herramientas que uso</h3>
